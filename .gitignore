@@ -8,3 +8,8 @@ Haarcascades
 faces
 images
 Trained Models
+
+*.npz
+
+datasets
+test
