@@ -13,3 +13,6 @@
 * Miniproject-11: Ball Tracking
 * Miniproject-12: Photo Restoration using inpainting
 * Miniproject-13: Number plate detection using pytesseract
+* Miniproject-14: Keras Handwritten
+* Miniproject-15: Keras Image Classifier
+* Miniproject-16: Data augmentation Cats vs Dogs
