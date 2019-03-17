@@ -1,4 +1,4 @@
-# Learning OpenCV in Python
+# Learning OpenCV and Keras in Python
 
 * Miniproject-1: Live Sketch Using Webcam
 * Miniproject-2: Identifying Contours by Shape
